@@ -55,12 +55,12 @@ On branch main — always shipping, always supporting ✦
 <br/>
 
 <a name="what-i-do"></a>
-## 🛠️ what I do
+##  what I do
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🧱 web apps</h4>
+      <h4> web apps</h4>
       <p>Full-stack Laravel products — auth, routing, Blade views, MySQL schemas and CSS that behaves. From <code>artisan serve</code> to production.</p>
       <p><code>laravel</code> <code>php</code> <code>blade</code> <code>mysql</code></p>
     </td>
@@ -80,7 +80,7 @@ On branch main — always shipping, always supporting ✦
 <br/>
 
 <a name="it-support"></a>
-## 🩺 IT support — remote desk
+##  IT support — remote desk
 
 <img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/support.svg" width="88%" alt="IT support remote desk — troubleshooting, Windows and Linux, networks, backups" />
 
@@ -138,7 +138,7 @@ flowchart LR
 <br/>
 
 <a name="receipts"></a>
-## 📊 the receipts
+## The receipts
 
 <div align="center">
 
@@ -158,7 +158,7 @@ flowchart LR
 <br/>
 
 <a name="snake"></a>
-## 🐍 contribution grid, but alive
+##  contribution grid, but alive
 
 <!-- Requires the neon snake workflow to run once (Actions → 🐍 Neon Snake → Run workflow).
      Until then this image 404s. See SETUP.md for the 30-second fix. -->
@@ -176,7 +176,7 @@ flowchart LR
 <br/>
 
 <a name="metrics"></a>
-## 📈 self-hosted metrics
+## self-hosted metrics
 
 <!-- Requires the 📊 GitHub Metrics workflow to run once (Actions → 📊 GitHub Metrics → Run workflow).
      It commits a freshly generated SVG to the `metrics` branch. -->
@@ -190,7 +190,7 @@ flowchart LR
 <br/>
 
 <a name="work"></a>
-## 🚀 selected work
+## selected work
 
 <table width="100%">
   <tr>
@@ -236,19 +236,19 @@ flowchart LR
   <summary><b>click to expand the side quests</b></summary>
   <br/>
 
-  - 🩺 Taking on **remote IT support** — helpdesk, recovery, networks, backups
-  - 🏗️ Going deeper into **Laravel**: queues, events, policies & testable architecture
-  - 🧪 Writing **Pest / PHPUnit** tests that would make an artisan proud
-  - 🎛️ Sprinkling **vanilla JavaScript** where a framework is overkill
-  - 🤖 Pairing with **DeepSeek Harness** to ship faster without shipping slop
-  - 🧠 Learning in public — one commit at a time
+  - Taking on **remote IT support** — helpdesk, recovery, networks, backups
+  - Going deeper into **Laravel**: queues, events, policies & testable architecture
+  - Writing **Pest / PHPUnit** tests that would make an artisan proud
+  - Sprinkling **vanilla JavaScript** where a framework is overkill
+  - Pairing with **DeepSeek Harness** to ship faster without shipping slop
+  - Learning in public — one commit at a time
 
 </details>
 
 <br/>
 
 <a name="philosophy"></a>
-## 💡 philosophy
+##  philosophy
 
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
@@ -258,7 +258,7 @@ No dependency for a job a built-in can do — and no fix without validation.
 <br/>
 
 <a name="connect"></a>
-## 📮 connect
+##  connect
 
 <div align="center">
 
