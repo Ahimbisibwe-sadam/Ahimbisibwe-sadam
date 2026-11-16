@@ -1,16 +1,160 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ahimbisibwe-sadam/Ahimbisibwe-sadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/banner.svg" width="100%" alt="Ahimbisibwe Sadam — neon cyberpunk profile banner" />
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/typing.svg" width="72%" alt="building the web with Laravel and vanilla PHP" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
+
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ahimbisibwe-sadam-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=1DE9FF"></a>
+<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sada63257%40gmail.com-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=FF2ECC"></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ahimbisibwe-sadam&style=for-the-badge&color=1DE9FF&labelColor=05060A&label=PROFILE+VIEWS">
+
+</div>
+
+<br/>
+
+## `whoami`
+
+```bash
+$ whoami
+ahimbisibwe sadam — Laravel artisan & full-stack builder
+
+$ cat ./mission.txt
+Build fast, clean web products from database to pixel.
+Obsessive about semantic HTML, hand-tuned CSS, buttery vanilla JS.
+Wielding VS Code, Sublime Text & FileZilla like a craftsman.
+
+$ git status
+On branch main — everything is coming together ✦
+```
+
+<br/>
+
+## ⚡ arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,mysql,git,github,vscode,linux,nginx&perline=11" alt="laravel php html css js mysql git github vscode linux nginx" />
+
+<br/><br/>
+
+<img alt="Native PHP" src="https://img.shields.io/badge/Native%20PHP-Backend%20Muscle-777BB4?style=for-the-badge&labelColor=05060A&logo=php&logoColor=white">
+<img alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-Agentic%20Coding-4D6BFE?style=for-the-badge&labelColor=05060A">
+<img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-Lightning%20Edits-FF9800?style=for-the-badge&labelColor=05060A&logo=sublimetext&logoColor=white">
+<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-Shipping%20It-BF0000?style=for-the-badge&labelColor=05060A&logo=filezilla&logoColor=white">
+
+</div>
+
+<br/>
+
+## 📊 the receipts
+
+<div align="center">
+
+<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api?username=Ahimbisibwe-sadam&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d0d12&title_color=1DE9FF&icon_color=1DE9FF&text_color=CFF7FF&border_color=2A2D3A&border_radius=14" alt="GitHub stats" /></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahimbisibwe-sadam&layout=compact&langs_count=8&theme=radical&bg_color=0d0d12&title_color=1DE9FF&text_color=CFF7FF&border_color=2A2D3A&border_radius=14" alt="Top languages" /></a>
+
+<br/>
+
+<img width="82%" src="https://streak-stats.demolab.com?user=Ahimbisibwe-sadam&theme=radical&hide_border=true&background=0D0D12&stroke=2A2D3A&ring=1DE9FF&fire=FF2ECC&currStreakNum=1DE9FF&sideNums=8FE9FF&currStreakLabel=FFC2EA&sideLabels=8FE9FF&dates=6FA8B8&border_radius=14&short_numbers=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## 🐍 contribution grid, but alive
+
+<!-- Requires the neon snake workflow to run once (Actions tab → 🐍 Neon Snake → Run workflow).
+     Until then this image 404s. See SETUP.md for the 30-second fix. -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🚀 selected work
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>✦ this profile</h4>
+      <p><a href="https://github.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam"><b>Ahimbisibwe-sadam/Ahimbisibwe-sadam</b></a></p>
+      <p>Hand-authored animated SVG banner, typewriter intro & neon design system in pure markdown.</p>
+      <p><code>markdown</code> <code>svg</code> <code>css</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>✦ chirper</h4>
+      <p><a href="https://github.com/Ahimbisibwe-sadam/chirper"><b>Ahimbisibwe-sadam/chirper</b></a></p>
+      <p>A chirp-feed web app built on Laravel + Blade — real routing, auth and hand-crafted views.</p>
+      <p><code>laravel</code> <code>blade</code> <code>php</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>✦ leave-web-application</h4>
+      <p><a href="https://github.com/Ahimbisibwe-sadam/leave-web-application"><b>Ahimbisibwe-sadam/leave-web-application</b></a></p>
+      <p>Leave-management app in native PHP — every request, query and layout hand-rolled. No framework, no crutches.</p>
+      <p><code>php</code> <code>mysql</code> <code>css</code> <code>html</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<i>also on the workbench:</i> <a href="https://github.com/Ahimbisibwe-sadam/todo-app">todo-app</a> · <a href="https://github.com/Ahimbisibwe-sadam/CRUD">CRUD</a>
+</p>
+
+<br/>
+
+## 🧭 currently
+
+<details>
+  <summary><b>click to expand the side quests</b></summary>
+  <br/>
+
+  - 🏗️ Going deeper into **Laravel**: queues, events, policies & testable architecture
+  - 🧪 Writing **Pest / PHPUnit** tests that would make an artisan proud
+  - 🎛️ Sprinkling **vanilla JavaScript** where a framework is overkill
+  - 🤖 Pairing with **DeepSeek Harness** to ship faster without shipping slop
+  - 🧠 Learning in public — one commit at a time
+
+</details>
+
+<br/>
+
+## 💡 philosophy
+
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+
+**Ship small. Ship clean. Ship often.**  
+No dependency for a job a built-in can do — and no commit without a reason.
+
+<br/>
+
+## 📮 connect
+
+<div align="center">
+
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20the%20build-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=05060A"></a>
+<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=white"></a>
+
+<!-- Add these when you're ready — just remove the comment markers.
+<a href="https://x.com/YOUR_HANDLE"><img alt="X" src="https://img.shields.io/badge/X-@YOUR__HANDLE-000000?style=for-the-badge&labelColor=05060A&logo=x&logoColor=white"></a>
+<a href="https://linkedin.com/in/YOUR_HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=05060A&logo=linkedin&logoColor=white"></a>
+<a href="https://YOUR_SITE.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-YOUR__SITE.dev-1DE9FF?style=for-the-badge&labelColor=05060A&logo=googlechrome&logoColor=white"></a>
 -->
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/footer.svg" width="100%" alt="neon heartbeat divider" />
+
+<div align="center">
+
+<i>Built with pure markdown, neon and PHP — © Ahimbisibwe-sadam</i>
+
+</div>
