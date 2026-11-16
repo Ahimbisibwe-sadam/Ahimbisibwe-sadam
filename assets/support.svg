@@ -1,51 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="304" viewBox="0 0 1000 304" fill="none" role="img" aria-label="IT support remote desk — troubleshooting, Windows and Linux, networks, backups">
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="304" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#FF2ECC" stop-opacity="0.75"/>
+      <stop stop-color="#2BFF88" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00B3FF" stop-opacity="0.8"/>
     </linearGradient>
     <linearGradient id="head" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF"/>
-      <stop offset="1" stop-color="#FF2ECC"/>
+      <stop stop-color="#2BFF88"/>
+      <stop offset="0.5" stop-color="#F4FEFF"/>
+      <stop offset="1" stop-color="#00B3FF"/>
     </linearGradient>
     <linearGradient id="rail" x1="0" y1="0" x2="0" y2="304" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#FF2ECC" stop-opacity="0.9"/>
+      <stop stop-color="#2BFF88" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00B3FF" stop-opacity="0.9"/>
     </linearGradient>
-    <filter id="sGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
   </defs>
 
-  <rect x="1.5" y="1.5" width="997" height="301" rx="18" fill="#05060A" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="1.5" y="1.5" width="997" height="301" rx="18" fill="#04070F" stroke="url(#edge)" stroke-width="2"/>
   <rect x="10" y="16" width="4" height="272" rx="2" fill="url(#rail)" opacity="0.85"/>
 
   <!-- header -->
   <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace">
-    <circle cx="44" cy="44" r="6" fill="#1DE9FF">
+    <circle cx="44" cy="44" r="6" fill="#2BFF88">
       <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
     <text x="62" y="50" font-size="20" letter-spacing="3" fill="url(#head)">IT SUPPORT // REMOTE DESK</text>
-    <text x="956" y="50" text-anchor="end" font-size="16" letter-spacing="2" fill="#7AF7FF" opacity="0.9">STATUS ● ONLINE</text>
+    <text x="956" y="50" text-anchor="end" font-size="16" letter-spacing="2" fill="#A9FFCF" opacity="0.95">STATUS ● ONLINE</text>
     <rect x="34" y="74" width="932" height="1.5" fill="url(#head)" opacity="0.55"/>
   </g>
 
   <!-- services -->
-  <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="19" fill="#CFF7FF">
-    <text x="44" y="124" fill="#1DE9FF">▸</text>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="19" fill="#E4F2FF">
+    <text x="44" y="124" fill="#2BFF88">▸</text>
     <text x="76" y="124">Remote troubleshooting — TeamViewer / AnyDesk / WhatsApp</text>
-    <text x="44" y="168" fill="#1DE9FF">▸</text>
+    <text x="44" y="168" fill="#2BFF88">▸</text>
     <text x="76" y="168">Windows &amp; Linux — recovery, updates, drivers, dual-boot</text>
-    <text x="44" y="212" fill="#1DE9FF">▸</text>
+    <text x="44" y="212" fill="#2BFF88">▸</text>
     <text x="76" y="212">Network &amp; devices — DNS, IP, printers, routers, CCTV</text>
-    <text x="44" y="256" fill="#1DE9FF">▸</text>
+    <text x="44" y="256" fill="#2BFF88">▸</text>
     <text x="76" y="256">Backups, data recovery &amp; safe migrations</text>
   </g>
 
-  <circle cx="956" cy="124" r="4" fill="#1DE9FF">
+  <circle cx="956" cy="124" r="4" fill="#2BFF88">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="956" cy="212" r="4" fill="#FF2ECC">
+  <circle cx="956" cy="212" r="4" fill="#00B3FF">
     <animate attributeName="opacity" values="1;0.25;1" dur="2.7s" repeatCount="indefinite"/>
   </circle>
 

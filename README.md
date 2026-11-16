@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ahimbisibwe--sadam-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=1DE9FF"></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ahimbisibwe--sadam-2BFF88?style=for-the-badge&labelColor=05060A&logo=github&logoColor=2BFF88"></a>
 <a href="https://wa.me/256768931938?text=Hi%20Sadam%2C%20I%20found%20your%20GitHub%20profile!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat%20now-25D366?style=for-the-badge&labelColor=05060A&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sada63257%40gmail.com-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=FF2ECC"></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ahimbisibwe-sadam&style=for-the-badge&color=1DE9FF&labelColor=05060A&label=PROFILE+VIEWS">
+<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sada63257%40gmail.com-00B3FF?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=00B3FF"></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ahimbisibwe-sadam&style=for-the-badge&color=2BFF88&labelColor=05060A&label=PROFILE+VIEWS">
 
 </div>
 
@@ -86,12 +86,12 @@ On branch main — always shipping, always supporting ✦
 
 <div align="center">
 
-<img alt="Helpdesk" src="https://img.shields.io/badge/Helpdesk-Tier%201%20%26%202-FF2ECC?style=for-the-badge&labelColor=05060A">
+<img alt="Helpdesk" src="https://img.shields.io/badge/Helpdesk-Tier%201%20%26%202-00B3FF?style=for-the-badge&labelColor=05060A">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-Recovery%20%26%20Admin-0078D6?style=for-the-badge&labelColor=05060A&logo=windows&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-Desktop%20%26%20Server-FCC624?style=for-the-badge&labelColor=05060A&logo=linux&logoColor=black">
-<img alt="Networking" src="https://img.shields.io/badge/Network-DNS%20%C2%B7%20IP%20%C2%B7%20Routers-1DE9FF?style=for-the-badge&labelColor=05060A&logo=cisco&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-Desktop%20%26%20Server-EAF4FF?style=for-the-badge&labelColor=05060A&logo=linux&logoColor=black">
+<img alt="Networking" src="https://img.shields.io/badge/Network-DNS%20%C2%B7%20IP%20%C2%B7%20Routers-00B3FF?style=for-the-badge&labelColor=05060A&logo=cisco&logoColor=white">
 <img alt="Remote" src="https://img.shields.io/badge/Remote-TeamViewer%20%2F%20AnyDesk-0E8EE9?style=for-the-badge&labelColor=05060A">
-<img alt="Backups" src="https://img.shields.io/badge/Backups-Data%20Recovery-8A2BE2?style=for-the-badge&labelColor=05060A">
+<img alt="Backups" src="https://img.shields.io/badge/Backups-Data%20Recovery-2E6BFF?style=for-the-badge&labelColor=05060A">
 
 </div>
 
@@ -129,8 +129,8 @@ flowchart LR
 
 <img alt="Native PHP" src="https://img.shields.io/badge/Native%20PHP-Backend%20Muscle-777BB4?style=for-the-badge&labelColor=05060A&logo=php&logoColor=white">
 <img alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-Agentic%20Coding-4D6BFE?style=for-the-badge&labelColor=05060A">
-<img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-Lightning%20Edits-FF9800?style=for-the-badge&labelColor=05060A&logo=sublimetext&logoColor=white">
-<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-Shipping%20It-BF0000?style=for-the-badge&labelColor=05060A&logo=filezilla&logoColor=white">
+<img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-Lightning%20Edits-2BFF88?style=for-the-badge&labelColor=05060A&logo=sublimetext&logoColor=white">
+<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-Shipping%20It-00B3FF?style=for-the-badge&labelColor=05060A&logo=filezilla&logoColor=white">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=for-the-badge&labelColor=05060A&logo=gnubash&logoColor=white">
 
 </div>
@@ -142,16 +142,16 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api?username=Ahimbisibwe-sadam&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d0d12&title_color=1DE9FF&icon_color=1DE9FF&text_color=CFF7FF&border_color=2A2D3A&border_radius=14" alt="GitHub stats" /></a>
-<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahimbisibwe-sadam&layout=compact&langs_count=8&theme=radical&bg_color=0d0d12&title_color=1DE9FF&text_color=CFF7FF&border_color=2A2D3A&border_radius=14" alt="Top languages" /></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api?username=Ahimbisibwe-sadam&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=081020&title_color=2BFF88&icon_color=2BFF88&text_color=EAF4FF&border_color=1E2A44&border_radius=14" alt="GitHub stats" /></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahimbisibwe-sadam&layout=compact&langs_count=8&theme=radical&bg_color=081020&title_color=2BFF88&text_color=EAF4FF&border_color=1E2A44&border_radius=14" alt="Top languages" /></a>
 
 <br/>
 
-<img width="82%" src="https://streak-stats.demolab.com?user=Ahimbisibwe-sadam&theme=radical&hide_border=true&background=0D0D12&stroke=2A2D3A&ring=1DE9FF&fire=FF2ECC&currStreakNum=1DE9FF&sideNums=8FE9FF&currStreakLabel=FFC2EA&sideLabels=8FE9FF&dates=6FA8B8&border_radius=14&short_numbers=true" alt="GitHub streak" />
+<img width="82%" src="https://streak-stats.demolab.com?user=Ahimbisibwe-sadam&theme=radical&hide_border=true&background=081020&stroke=1E2A44&ring=2BFF88&fire=00B3FF&currStreakNum=2BFF88&sideNums=9BE3FF&currStreakLabel=C8FFE2&sideLabels=9BE3FF&dates=6F8FB8&border_radius=14&short_numbers=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt" alt="random dev quote" />
 
 </div>
 
@@ -257,13 +257,13 @@ No dependency for a job a built-in can do — and no fix without validation.
 <b>Got a broken system or a wild idea? Let's talk.</b><br/><br/>
 
 <a href="https://wa.me/256768931938?text=Hi%20Sadam%2C%20I%20found%20your%20GitHub%20profile!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat%20now-25D366?style=for-the-badge&labelColor=05060A&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20the%20build-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=05060A"></a>
+<a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-00B3FF?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20the%20build-2BFF88?style=for-the-badge&labelColor=05060A&logo=github&logoColor=05060A"></a>
 
 <!-- Add these when you're ready — just remove the comment markers.
 <a href="https://x.com/YOUR_HANDLE"><img alt="X" src="https://img.shields.io/badge/X-@YOUR__HANDLE-000000?style=for-the-badge&labelColor=05060A&logo=x&logoColor=white"></a>
 <a href="https://linkedin.com/in/YOUR_HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=05060A&logo=linkedin&logoColor=white"></a>
-<a href="https://YOUR_SITE.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-YOUR__SITE.dev-1DE9FF?style=for-the-badge&labelColor=05060A&logo=googlechrome&logoColor=white"></a>
+<a href="https://YOUR_SITE.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-YOUR__SITE.dev-2BFF88?style=for-the-badge&labelColor=05060A&logo=googlechrome&logoColor=white"></a>
 -->
 
 </div>

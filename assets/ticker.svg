@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="Laravel · PHP · IT Support · Remote Help · Automation · CSS Wizard">
   <defs>
     <linearGradient id="tk" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF"/>
-      <stop offset="0.45" stop-color="#8DF6FF"/>
-      <stop offset="0.75" stop-color="#FFB7ED"/>
-      <stop offset="1" stop-color="#FF2ECC"/>
+      <stop stop-color="#2BFF88"/>
+      <stop offset="0.45" stop-color="#D6FFE9"/>
+      <stop offset="0.75" stop-color="#8DD9FF"/>
+      <stop offset="1" stop-color="#00B3FF"/>
     </linearGradient>
   </defs>
 

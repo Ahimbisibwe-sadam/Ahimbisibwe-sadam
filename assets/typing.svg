@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="84" viewBox="0 0 860 84" fill="none" role="img" aria-label="building the web with Laravel and vanilla PHP">
   <defs>
     <linearGradient id="txGrad" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF"/>
-      <stop offset="1" stop-color="#FF2ECC"/>
+      <stop stop-color="#2BFF88"/>
+      <stop offset="1" stop-color="#00B3FF"/>
     </linearGradient>
     <linearGradient id="cardEdge" x1="0" y1="0" x2="860" y2="84" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#FF2ECC" stop-opacity="0.65"/>
+      <stop stop-color="#2BFF88" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#00B3FF" stop-opacity="0.65"/>
     </linearGradient>
     <clipPath id="reveal">
       <rect x="0" y="0" width="0" height="84">
@@ -15,16 +15,16 @@
     </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="858" height="82" rx="14" fill="#05060A"/>
+  <rect x="1" y="1" width="858" height="82" rx="14" fill="#04070F"/>
   <rect x="1" y="1" width="858" height="82" rx="14" stroke="url(#cardEdge)" stroke-width="1.5"/>
-  <rect x="14" y="22" width="58" height="40" rx="8" fill="#0A0D18"/>
-  <text x="43" y="47" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" letter-spacing="1" fill="#1DE9FF">&#62;_</text>
+  <rect x="14" y="22" width="58" height="40" rx="8" fill="#08101E"/>
+  <text x="43" y="47" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" letter-spacing="1" fill="#2BFF88">&#62;_</text>
 
   <g clip-path="url(#reveal)">
     <text x="88" y="50" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="21" fill="url(#txGrad)">building the web with Laravel &amp; vanilla PHP</text>
   </g>
 
-  <rect x="632" y="26" width="3" height="30" fill="#FF2ECC">
+  <rect x="632" y="26" width="3" height="30" fill="#00B3FF">
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;0.5;0.75;1"/>
   </rect>
 </svg>

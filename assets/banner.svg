@@ -2,31 +2,31 @@
   <title>Ahimbisibwe Sadam</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#04050A"/>
-      <stop offset="0.5" stop-color="#0A0714"/>
-      <stop offset="1" stop-color="#04050A"/>
+      <stop stop-color="#03060C"/>
+      <stop offset="0.5" stop-color="#071021"/>
+      <stop offset="1" stop-color="#03060C"/>
     </linearGradient>
     <linearGradient id="titleGrad" x1="150" y1="140" x2="1050" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF"/>
-      <stop offset="0.52" stop-color="#8DF6FF"/>
-      <stop offset="1" stop-color="#FF2ECC"/>
+      <stop stop-color="#2BFF88"/>
+      <stop offset="0.52" stop-color="#F4FEFF"/>
+      <stop offset="1" stop-color="#00B3FF"/>
     </linearGradient>
     <linearGradient id="lineFade" x1="220" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#1DE9FF" stop-opacity="0.8"/>
-      <stop offset="0.8" stop-color="#FF2ECC" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#FF2ECC" stop-opacity="0"/>
+      <stop stop-color="#2BFF88" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#2BFF88" stop-opacity="0.8"/>
+      <stop offset="0.8" stop-color="#00B3FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#00B3FF" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(260 90) scale(380)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1DE9FF" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#1DE9FF" stop-opacity="0"/>
+      <stop stop-color="#2BFF88" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#2BFF88" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowMagenta" cx="0" cy="0" r="1" gradientTransform="translate(950 340) scale(430)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF2ECC" stop-opacity="0.26"/>
-      <stop offset="1" stop-color="#FF2ECC" stop-opacity="0"/>
+      <stop stop-color="#00B3FF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#00B3FF" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" stroke="#1DE9FF" stroke-opacity="0.06" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" stroke="#2BFF88" stroke-opacity="0.06" stroke-width="1"/>
     </pattern>
     <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
       <rect width="6" height="3" fill="#000000" fill-opacity="0.18"/>
@@ -48,17 +48,17 @@
 
     <!-- rotating orbits -->
     <g>
-      <circle cx="600" cy="210" r="252" stroke="#1DE9FF" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="2 12">
+      <circle cx="600" cy="210" r="252" stroke="#2BFF88" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="2 12">
         <animateTransform attributeName="transform" type="rotate" from="0 600 210" to="360 600 210" dur="70s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="600" cy="210" r="192" stroke="#FF2ECC" stroke-opacity="0.14" stroke-width="1" stroke-dasharray="1 16">
+      <circle cx="600" cy="210" r="192" stroke="#00B3FF" stroke-opacity="0.14" stroke-width="1" stroke-dasharray="1 16">
         <animateTransform attributeName="transform" type="rotate" from="360 600 210" to="0 600 210" dur="95s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="600" cy="210" r="300" stroke="#1DE9FF" stroke-opacity="0.05" stroke-width="1"/>
+      <circle cx="600" cy="210" r="300" stroke="#2BFF88" stroke-opacity="0.05" stroke-width="1"/>
     </g>
 
     <!-- particles -->
-    <g fill="#1DE9FF">
+    <g fill="#2BFF88">
       <circle cx="150" cy="300" r="2">
         <animate attributeName="cy" values="300;262;300" dur="9s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.15;0.9;0.15" dur="9s" repeatCount="indefinite"/>
@@ -83,11 +83,11 @@
         <animate attributeName="cy" values="330;295;330" dur="12s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.1;0.6;0.1" dur="12s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="1090" cy="240" r="2.2" fill="#FF2ECC">
+      <circle cx="1090" cy="240" r="2.2" fill="#00B3FF">
         <animate attributeName="cy" values="240;205;240" dur="10s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.15;0.9;0.15" dur="10s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="240" cy="250" r="1.8" fill="#FF2ECC">
+      <circle cx="240" cy="250" r="1.8" fill="#00B3FF">
         <animate attributeName="cy" values="250;215;250" dur="10.5s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.1;0.8;0.1" dur="10.5s" repeatCount="indefinite"/>
       </circle>
@@ -95,28 +95,28 @@
 
     <!-- top HUD -->
     <text x="44" y="46" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="3" fill="#8FE9FF" opacity="0.65">SYS://PROFILE — DARK MODE ENGAGED</text>
-    <circle cx="1078" cy="41" r="4.5" fill="#FF2ECC">
+    <circle cx="1078" cy="41" r="4.5" fill="#00B3FF">
       <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="1092" y="46" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="4" fill="#FFC2EA">LIVE</text>
+    <text x="1092" y="46" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="4" fill="#CFF3FF">LIVE</text>
 
     <!-- corner brackets -->
-    <path d="M 24 132 V 86 Q 24 74 36 74 H 96" stroke="#1DE9FF" stroke-opacity="0.55" stroke-width="2" fill="none"/>
-    <path d="M 1176 288 V 334 Q 1176 346 1164 346 H 1104" stroke="#FF2ECC" stroke-opacity="0.55" stroke-width="2" fill="none"/>
-    <path d="M 24 288 V 334 Q 24 346 36 346 H 96" stroke="#1DE9FF" stroke-opacity="0.35" stroke-width="2" fill="none"/>
-    <path d="M 1176 132 V 86 Q 1176 74 1164 74 H 1104" stroke="#FF2ECC" stroke-opacity="0.35" stroke-width="2" fill="none"/>
+    <path d="M 24 132 V 86 Q 24 74 36 74 H 96" stroke="#2BFF88" stroke-opacity="0.55" stroke-width="2" fill="none"/>
+    <path d="M 1176 288 V 334 Q 1176 346 1164 346 H 1104" stroke="#00B3FF" stroke-opacity="0.55" stroke-width="2" fill="none"/>
+    <path d="M 24 288 V 334 Q 24 346 36 346 H 96" stroke="#2BFF88" stroke-opacity="0.35" stroke-width="2" fill="none"/>
+    <path d="M 1176 132 V 86 Q 1176 74 1164 74 H 1104" stroke="#00B3FF" stroke-opacity="0.35" stroke-width="2" fill="none"/>
 
     <!-- title: glow layer -->
     <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="76" letter-spacing="6" fill="url(#titleGrad)" filter="url(#blurGlow)" opacity="0.55">AHIMBISIBWE SADAM</text>
 
     <!-- title: glitch ghosts -->
     <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="76" letter-spacing="6" text-anchor="middle">
-      <text x="600" y="196" fill="#1DE9FF" opacity="0">
+      <text x="600" y="196" fill="#2BFF88" opacity="0">
         AHIMBISIBWE SADAM
         <animate attributeName="opacity" values="0;0.5;0;0;0;0.45;0;0;0" dur="7s" repeatCount="indefinite" keyTimes="0;0.02;0.045;0.4;0.42;0.46;0.5;0.9;1"/>
         <animateTransform attributeName="transform" type="translate" values="0 0;-7 0;3 0;-2 0;0 0" dur="0.5s" repeatCount="indefinite"/>
       </text>
-      <text x="600" y="196" fill="#FF2ECC" opacity="0">
+      <text x="600" y="196" fill="#00B3FF" opacity="0">
         AHIMBISIBWE SADAM
         <animate attributeName="opacity" values="0;0;0.45;0;0;0;0.4;0;0" dur="7s" repeatCount="indefinite" keyTimes="0;0.38;0.42;0.46;0.6;0.62;0.66;0.9;1"/>
         <animateTransform attributeName="transform" type="translate" values="0 0;6 0;-4 0;2 0;0 0" dur="0.45s" repeatCount="indefinite"/>
@@ -127,14 +127,14 @@
     <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="76" letter-spacing="6" fill="url(#titleGrad)">AHIMBISIBWE SADAM</text>
 
     <!-- tagline -->
-    <text x="600" y="248" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="19" letter-spacing="7" fill="#9BE7FF" opacity="0.88">LARAVEL ARTISAN • PHP NATIVE • FULL-STACK BUILDER</text>
+    <text x="600" y="248" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="19" letter-spacing="7" fill="#BFE9FF" opacity="0.88">LARAVEL ARTISAN • PHP NATIVE • FULL-STACK BUILDER</text>
 
     <!-- divider -->
     <rect x="220" y="276" width="760" height="2" fill="url(#lineFade)"/>
 
     <!-- bottom HUD -->
-    <text x="44" y="372" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="2" fill="#6FD6E8" opacity="0.7">&gt; github.com/Ahimbisibwe-sadam</text>
-    <text x="1156" y="372" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="2" fill="#D9A9FF" opacity="0.6">// shipping since day one</text>
+    <text x="44" y="372" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8DE0B8" opacity="0.7">&gt; github.com/Ahimbisibwe-sadam</text>
+    <text x="1156" y="372" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" letter-spacing="2" fill="#A9D9FF" opacity="0.6">// shipping since day one</text>
 
     <!-- scanlines -->
     <rect width="1200" height="420" fill="url(#scan)" opacity="0.30">
