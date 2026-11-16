@@ -2,11 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/banner.svg" width="100%" alt="Ahimbisibwe Sadam — neon cyberpunk profile banner" />
 
+<img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/ticker.svg" width="100%" alt="Laravel · PHP · IT support · remote help · automation" />
+
 <img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/typing.svg" width="72%" alt="building the web with Laravel and vanilla PHP" />
 
 <br/>
 
-<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ahimbisibwe-sadam-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=1DE9FF"></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ahimbisibwe--sadam-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=1DE9FF"></a>
+<a href="https://wa.me/256768931938?text=Hi%20Sadam%2C%20I%20found%20your%20GitHub%20profile!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat%20now-25D366?style=for-the-badge&labelColor=05060A&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sada63257%40gmail.com-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=FF2ECC"></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ahimbisibwe-sadam&style=for-the-badge&color=1DE9FF&labelColor=05060A&label=PROFILE+VIEWS">
 
@@ -14,23 +17,108 @@
 
 <br/>
 
+<p align="center">
+  <a href="#whoami">whoami</a> ·
+  <a href="#what-i-do">what I do</a> ·
+  <a href="#it-support">IT support</a> ·
+  <a href="#arsenal">arsenal</a> ·
+  <a href="#receipts">receipts</a> ·
+  <a href="#snake">contribution grid</a> ·
+  <a href="#work">selected work</a> ·
+  <a href="#currently">currently</a> ·
+  <a href="#philosophy">philosophy</a> ·
+  <a href="#connect">connect</a>
+</p>
+
+<br/>
+
+<a name="whoami"></a>
 ## `whoami`
 
 ```bash
 $ whoami
-ahimbisibwe sadam — Laravel artisan & full-stack builder
+ahimbisibwe sadam — Laravel artisan · full-stack builder · IT support technician
 
 $ cat ./mission.txt
-Build fast, clean web products from database to pixel.
-Obsessive about semantic HTML, hand-tuned CSS, buttery vanilla JS.
-Wielding VS Code, Sublime Text & FileZilla like a craftsman.
+Build fast, clean web products from database to pixel — and keep people's
+machines, networks and data running while I do it.
+
+$ services --list
+web-apps     laravel · php-native · blade · mysql · css/js
+it-support   remote helpdesk · Windows & Linux · networks · backups
+automation   deepseek harness · shell scripts · deploy pipelines
 
 $ git status
-On branch main — everything is coming together ✦
+On branch main — always shipping, always supporting ✦
 ```
 
 <br/>
 
+<a name="what-i-do"></a>
+## 🛠️ what I do
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧱 web apps</h4>
+      <p>Full-stack Laravel products — auth, routing, Blade views, MySQL schemas and CSS that behaves. From <code>artisan serve</code> to production.</p>
+      <p><code>laravel</code> <code>php</code> <code>blade</code> <code>mysql</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🩺 IT support</h4>
+      <p>Remote &amp; on-desk troubleshooting: Windows/Linux recovery, drivers, printers, networks, CCTV and data. Calm hands when things are on fire.</p>
+      <p><code>helpdesk</code> <code>networking</code> <code>backups</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 automation</h4>
+      <p>Bash scripts, deploy pipelines and AI pair-programming with DeepSeek Harness — so repetitive work never gets done twice by hand.</p>
+      <p><code>bash</code> <code>git</code> <code>deepseek</code></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a name="it-support"></a>
+## 🩺 IT support — remote desk
+
+<img src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/main/assets/support.svg" width="88%" alt="IT support remote desk — troubleshooting, Windows and Linux, networks, backups" />
+
+<div align="center">
+
+<img alt="Helpdesk" src="https://img.shields.io/badge/Helpdesk-Tier%201%20%26%202-FF2ECC?style=for-the-badge&labelColor=05060A">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-Recovery%20%26%20Admin-0078D6?style=for-the-badge&labelColor=05060A&logo=windows&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-Desktop%20%26%20Server-FCC624?style=for-the-badge&labelColor=05060A&logo=linux&logoColor=black">
+<img alt="Networking" src="https://img.shields.io/badge/Network-DNS%20%C2%B7%20IP%20%C2%B7%20Routers-1DE9FF?style=for-the-badge&labelColor=05060A&logo=cisco&logoColor=white">
+<img alt="Remote" src="https://img.shields.io/badge/Remote-TeamViewer%20%2F%20AnyDesk-0E8EE9?style=for-the-badge&labelColor=05060A">
+<img alt="Backups" src="https://img.shields.io/badge/Backups-Data%20Recovery-8A2BE2?style=for-the-badge&labelColor=05060A">
+
+</div>
+
+```mermaid
+%%{init: {"theme": "dark"}}%%
+flowchart LR
+    A([🖥️ Issue reported]) --> B{Diagnose}
+    B -->|Software| C[Patch · update · verify]
+    B -->|Network| D[Trace · restore]
+    B -->|Hardware| E[Service · replace]
+    C --> F([✅ Fixed + documented])
+    D --> F
+    E --> F
+```
+
+<div align="center">
+
+<b>Need a hand? Remote support sessions run on WhatsApp.</b><br/>
+<a href="https://wa.me/256768931938?text=Hi%20Sadam%2C%20I%20need%20IT%20support%20—%20can%20you%20help%3F">
+  <img alt="Book IT support on WhatsApp" src="https://img.shields.io/badge/Book%20IT%20support-WhatsApp%20%E2%86%92-25D366?style=for-the-badge&labelColor=05060A&logo=whatsapp&logoColor=white">
+</a>
+
+</div>
+
+<br/>
+
+<a name="arsenal"></a>
 ## ⚡ arsenal
 
 <div align="center">
@@ -43,11 +131,13 @@ On branch main — everything is coming together ✦
 <img alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-Agentic%20Coding-4D6BFE?style=for-the-badge&labelColor=05060A">
 <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-Lightning%20Edits-FF9800?style=for-the-badge&labelColor=05060A&logo=sublimetext&logoColor=white">
 <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-Shipping%20It-BF0000?style=for-the-badge&labelColor=05060A&logo=filezilla&logoColor=white">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=for-the-badge&labelColor=05060A&logo=gnubash&logoColor=white">
 
 </div>
 
 <br/>
 
+<a name="receipts"></a>
 ## 📊 the receipts
 
 <div align="center">
@@ -59,13 +149,18 @@ On branch main — everything is coming together ✦
 
 <img width="82%" src="https://streak-stats.demolab.com?user=Ahimbisibwe-sadam&theme=radical&hide_border=true&background=0D0D12&stroke=2A2D3A&ring=1DE9FF&fire=FF2ECC&currStreakNum=1DE9FF&sideNums=8FE9FF&currStreakLabel=FFC2EA&sideLabels=8FE9FF&dates=6FA8B8&border_radius=14&short_numbers=true" alt="GitHub streak" />
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+
 </div>
 
 <br/>
 
+<a name="snake"></a>
 ## 🐍 contribution grid, but alive
 
-<!-- Requires the neon snake workflow to run once (Actions tab → 🐍 Neon Snake → Run workflow).
+<!-- Requires the neon snake workflow to run once (Actions → 🐍 Neon Snake → Run workflow).
      Until then this image 404s. See SETUP.md for the 30-second fix. -->
 
 <div align="center">
@@ -80,6 +175,21 @@ On branch main — everything is coming together ✦
 
 <br/>
 
+<a name="metrics"></a>
+## 📈 self-hosted metrics
+
+<!-- Requires the 📊 GitHub Metrics workflow to run once (Actions → 📊 GitHub Metrics → Run workflow).
+     It commits a freshly generated SVG to the `metrics` branch. -->
+
+<div align="center">
+
+<img width="92%" src="https://raw.githubusercontent.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam/metrics/github-metrics.svg" alt="Generated GitHub metrics — commits, languages, habits and activity" />
+
+</div>
+
+<br/>
+
+<a name="work"></a>
 ## 🚀 selected work
 
 <table width="100%">
@@ -87,7 +197,7 @@ On branch main — everything is coming together ✦
     <td width="33%" valign="top">
       <h4>✦ this profile</h4>
       <p><a href="https://github.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam"><b>Ahimbisibwe-sadam/Ahimbisibwe-sadam</b></a></p>
-      <p>Hand-authored animated SVG banner, typewriter intro & neon design system in pure markdown.</p>
+      <p>Hand-authored animated SVG banner, ticker, support card & neon design system in pure markdown.</p>
       <p><code>markdown</code> <code>svg</code> <code>css</code></p>
     </td>
     <td width="33%" valign="top">
@@ -111,12 +221,14 @@ On branch main — everything is coming together ✦
 
 <br/>
 
+<a name="currently"></a>
 ## 🧭 currently
 
 <details>
   <summary><b>click to expand the side quests</b></summary>
   <br/>
 
+  - 🩺 Taking on **remote IT support** — helpdesk, recovery, networks, backups
   - 🏗️ Going deeper into **Laravel**: queues, events, policies & testable architecture
   - 🧪 Writing **Pest / PHPUnit** tests that would make an artisan proud
   - 🎛️ Sprinkling **vanilla JavaScript** where a framework is overkill
@@ -127,21 +239,26 @@ On branch main — everything is coming together ✦
 
 <br/>
 
+<a name="philosophy"></a>
 ## 💡 philosophy
 
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
 **Ship small. Ship clean. Ship often.**  
-No dependency for a job a built-in can do — and no commit without a reason.
+No dependency for a job a built-in can do — and no fix without validation.
 
 <br/>
 
+<a name="connect"></a>
 ## 📮 connect
 
 <div align="center">
 
-<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20the%20build-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=05060A"></a>
+<b>Got a broken system or a wild idea? Let's talk.</b><br/><br/>
+
+<a href="https://wa.me/256768931938?text=Hi%20Sadam%2C%20I%20found%20your%20GitHub%20profile!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat%20now-25D366?style=for-the-badge&labelColor=05060A&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:sada63257@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-FF2ECC?style=for-the-badge&labelColor=05060A&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Ahimbisibwe-sadam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20the%20build-1DE9FF?style=for-the-badge&labelColor=05060A&logo=github&logoColor=05060A"></a>
 
 <!-- Add these when you're ready — just remove the comment markers.
 <a href="https://x.com/YOUR_HANDLE"><img alt="X" src="https://img.shields.io/badge/X-@YOUR__HANDLE-000000?style=for-the-badge&labelColor=05060A&logo=x&logoColor=white"></a>
