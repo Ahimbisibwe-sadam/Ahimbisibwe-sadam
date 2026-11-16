@@ -75,6 +75,7 @@ Or run:
 
 ## 5. Style notes
 
+- **Palette — green · white · blue:** neon green `#2BFF88`, white `#F4FEFF`, electric blue `#00B3FF`, on navy-black `#03060C`/`#04070F`. Search-replace these three tokens across `assets/*.svg` + `README.md` (stats/badges use them without the `#`) to reskin the whole profile.
 - The SVG banner is a **dark card on purpose** — it looks intentional in both GitHub light and dark themes.
 - Best viewed in **GitHub dark mode** (`Settings → Appearance → Dark`).
 - All animations are SMIL inside `<img>` SVGs — no JavaScript, so GitHub renders them safely.
