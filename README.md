@@ -194,23 +194,31 @@ flowchart LR
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4>✦ this profile</h4>
-      <p><a href="https://github.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam"><b>Ahimbisibwe-sadam/Ahimbisibwe-sadam</b></a></p>
-      <p>Hand-authored animated SVG banner, ticker, support card & neon design system in pure markdown.</p>
-      <p><code>markdown</code> <code>svg</code> <code>css</code></p>
+    <td width="50%" valign="top">
+      <h4>🌐 assiimwe.com <em>· client work</em></h4>
+      <p><a href="https://assiimwe.com"><b>assiimwe.com</b></a></p>
+      <p>Production site for <b>Asiimwe Judith Establishments</b> — landscaping &amp; garden care, indoor plants &amp; planters, and Chef J natural oils in Kampala, with a WhatsApp ordering flow.</p>
+      <p><code>web</code> <code>css</code> <code>deployment</code> <code>whatsapp</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>✦ chirper</h4>
       <p><a href="https://github.com/Ahimbisibwe-sadam/chirper"><b>Ahimbisibwe-sadam/chirper</b></a></p>
       <p>A chirp-feed web app built on Laravel + Blade — real routing, auth and hand-crafted views.</p>
       <p><code>laravel</code> <code>blade</code> <code>php</code></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>✦ leave-web-application</h4>
       <p><a href="https://github.com/Ahimbisibwe-sadam/leave-web-application"><b>Ahimbisibwe-sadam/leave-web-application</b></a></p>
       <p>Leave-management app in native PHP — every request, query and layout hand-rolled. No framework, no crutches.</p>
       <p><code>php</code> <code>mysql</code> <code>css</code> <code>html</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✦ this profile</h4>
+      <p><a href="https://github.com/Ahimbisibwe-sadam/Ahimbisibwe-sadam"><b>Ahimbisibwe-sadam/Ahimbisibwe-sadam</b></a></p>
+      <p>Hand-authored animated SVG banner, ticker, support card &amp; neon design system in pure markdown.</p>
+      <p><code>markdown</code> <code>svg</code> <code>css</code></p>
     </td>
   </tr>
 </table>
